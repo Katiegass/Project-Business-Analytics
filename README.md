@@ -1,4 +1,4 @@
-# Hello-World
+# Introduction to Business Analytics Project
 ***First Repository***
 
 ## Table of contents
