@@ -36,6 +36,3 @@ Here is the file I used to complete this project with all data included [here](h
 
 Click on the link, and by clicking in the data table and pressing "pivot table" in the insert ribbon, you can manipulate the data by any means. If you have the analysis toolpak, you could also do regression analysis easily.
 
-## Additional Information
-
-I hope you enjoy my first repository! :)
